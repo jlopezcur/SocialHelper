@@ -1,0 +1,28 @@
+h2. Social Helper
+
+This is a simple helper for make more easy to publish on social networks.
+
+h3. Installation
+
+* Clone from github: in your helper directory type `git clone git@github.com:jlopezcur/SocialHelper.git`
+
+OR
+
+* Download directly from gitub into your helper directory.
+
+h3. Available Social Networks
+
+* Twitter (Publish link)
+* Tuenti (Publish link)
+* Google Plus (Publish link)
+
+h3. Usage
+
+# Add the following to the controller where you'd like to use the helper:
+## var $helper = array('Social');
+# In your view you can use the helper, for information about how to do this check the code in the Helper (is documented).
+
+h3. TODO:
+
+# Facebook (Publish link)
+# Delicious (Publish link)
